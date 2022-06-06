@@ -7,13 +7,13 @@ const CustomLink = ({ children, to, ...props }) => {
     return (
         <div className='mx-4'>
         <Link className='fw-bold'
-          style={{color: match ? "#f15735":"black", textDecoration: match ? "underline" : "none" }}
+          style={{color: match ? "#e54b4b":"#3c4858", textDecoration: match ? "underline" : "none" }}
           to={to}
           {...props}
         >
           {children}
         </Link>
-        {/* {match && " (active)"} */}
+        {/* {match && " (active)"}  #6c757d */}
       </div>
     );
 };
