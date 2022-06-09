@@ -28,3 +28,13 @@
 .type-ban-text{
     color: #3c4858;
 }
+.pink-button{
+  background-color:  #e54b4b;
+  color: #000000;
+  font-size: large;
+  border: 2px solid black;
+}
+.pink-button a{
+  text-decoration: none;
+  color:#000000
+}
