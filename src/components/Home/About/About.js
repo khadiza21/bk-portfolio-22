@@ -7,7 +7,7 @@ const About = () => {
     return (
         <Container className="shadow rounded my-5 py-5">
            
-            <Row className="g-4 px-4 ">
+            <Row className="g-4 px-4">
                 <Col className="rounded shadow " style={{ backgroundColor: 'gray' }} xs={12} md={4} sm={12}>
                     <div  className=" my-4" >
                         <h5> Personal Details</h5>

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "BIO EARTH",
+        "description": " ● This application is a manufacturer's management application for tool manufacturers. ●  They can limit the minimum purchase quantity for vendors.Dashboard designed for admin and user. ● Single Page Web Application, Authentication Based, Full Stack Website",
+        "img": "./img/1-bio.png",
+        "tech": "HTML,CSS, React-Bootstrap, React JS, Node JS, MongoDB, Express JS, React Router, React Query, Firebase Authentication, React Hook Form, JWT, Heroku.",
+        "livesite": "https://manufacturer-website-46972.web.app/",
+        "clientsite": "https://github.com/khadiza21/-manufacturer-website-client-as-12",
+        "serversite": "https://github.com/khadiza21/-manufacturer-website-server-as-12"
+    },
+    {
+        "id": 2,
+        "name": "FRESHOHO",
+        "description": " ● It's an inventory management web application for managing stores and dealers. ● Dealers can update and manage their stocks. Responsive for Desktop and Mobile Screen ● Single Page Web Application, Authentication Based, Full Stack Website",
+        "img": "./img/2-fresh.png",
+        "tech": "HTML,CSS, React JS, Node JS, MongoDB, Express JS, React Router, React-Bootstrap, Firebase Authentication, React Firebase Hook, JWT, React Hook Form, Heroku.",
+        "livesite": "https://warehouse-react-node-mongo.web.app/",
+        "clientsite": "https://github.com/khadiza21/-warehouse-management-client",
+        "serversite": "https://github.com/khadiza21/-warehouse-management-server"
+    },
+    {
+        "id": 3,
+        "name": "TRALIVE BK",
+        "description": " ● Guide Services Provides By this Website. Users can see what services are provided by the agency.  ● Authentication Based (Sign In | Sign Up), Google Authentication Sign in implemented  ● Single Page Application, Responsive for Desktop and Mobile Screen.",
+        "img": "./img/3-tralive.png",
+        "tech": "HTML, CSS, React JS, React Router, React-Bootstrap, Firebase Authentication, React Firebase Hook.",
+        "livesite": "https://tralive-bk-auth.web.app/",
+        "clientsite": "https://github.com/khadiza21/independent-service-provider-as-10",
+        "serversite": ""
+    }
+]

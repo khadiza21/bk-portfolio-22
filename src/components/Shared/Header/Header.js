@@ -38,7 +38,7 @@ const Header = () => {
             <CustomLink to="/project">Projects</CustomLink>
             <CustomLink to="/education">Education</CustomLink>
             <CustomLink to="/blogs">Blogs</CustomLink>
-            <CustomLink to="/solution">Solutions</CustomLink>
+            <CustomLink to="/contact">Solutions</CustomLink>
             <CustomLink to="/photography">Photography</CustomLink>
           </Nav>
           <Nav>
